@@ -1,0 +1,6 @@
+*.res
+*.exp
+*.tlog
+*.idb
+*.sdf
+*.opensdf
